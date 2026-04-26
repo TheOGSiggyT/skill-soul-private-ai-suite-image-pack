@@ -30,6 +30,8 @@ It also looks for checkpoints in locations such as:
 - `image-backend-bin-mac/ComfyUI/models/checkpoints/`
 - `image-backend-bin-mac/ComfyUI-mac/models/checkpoints/`
 
+This repo now includes a starter `image-backend-bin-mac/` folder with placeholder launch scripts and workflow files so the final backend bundle has a known structure.
+
 ## Current status
 
 The install flow is scaffolded, but this is not a complete shipping pack yet.

@@ -1,0 +1,10 @@
+Put Mac image model checkpoint files in this folder.
+
+The workstation app currently looks for files such as:
+- *.safetensors
+- *.ckpt
+- *.pth
+
+Recommended use:
+- place the primary text-to-image checkpoint here
+- keep the filename stable between releases when possible
